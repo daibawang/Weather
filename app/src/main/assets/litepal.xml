@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+
+    <dbname value="weather" />
+
+    <version value="1" />public class County extends DataSupport {
+
+
+    <list>
+        <mapping class="com.bcu.dai.myweather.JavaBean.Province" />
+        <mapping class="com.bcu.dai.myweather.JavaBean.City" />
+        <mapping class="com.bcu.dai.myweather.JavaBean.County" />
+    </list>
+
+</litepal>
